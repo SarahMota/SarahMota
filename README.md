@@ -1,16 +1,24 @@
-### Hi there 👋
+## Oiee! Eu sou a Sarah Mota, muito prazer.
 
-<!--
-**SarahMota/SarahMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://beacons.ai/SarahMota">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SarahMota&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni"/>
+     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahMota&layout=compact&cache_seconds=86400&theme=omni"/>
+    <img align="right" alt="Sarah-yoda" src="https://i.pinimg.com/originals/73/c6/3a/73c63a1f41f1d3c42030d04344296c17.png" width="200" height="150">
 
-Here are some ideas to get you started:
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sarah-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<div>
+
+##
+
+<div>
+ <a href = "mailto:sarahcoelhomota@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.duolingo.com/profile/Sarah__Mota"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/sarah-mota-a43238234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://instagram.com/sarahmotaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>
