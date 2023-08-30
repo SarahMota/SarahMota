@@ -1,4 +1,4 @@
-## Oiee! Eu sou a Sarah Mota, muito prazer.
+<h1 align="center">Oieee <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu me chamo Sarah Mota, muito prazer!</h1>
 
 <div>
   <a href="https://beacons.ai/SarahMota">
