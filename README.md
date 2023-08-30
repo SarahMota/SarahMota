@@ -4,7 +4,8 @@
   <a href="https://beacons.ai/SarahMota">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=SarahMota&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni"/>
      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahMota&layout=compact&cache_seconds=86400&theme=omni"/>
-    <img align="right" alt="Sarah-yoda" src="https://i.pinimg.com/originals/73/c6/3a/73c63a1f41f1d3c42030d04344296c17.png" width="200" height="150">
+    <img align="right" alt="Sarah-yoda" src="https://i.pinimg.com/originals/73/c6/3a/73c63a1f41f1d3c42030d04344296c17.png" height="150">
+
 
   </a>
 </div>
