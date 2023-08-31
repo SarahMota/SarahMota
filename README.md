@@ -1,4 +1,4 @@
-<h1 align="center">Oieee <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu me chamo Sarah Mota, muito prazer!</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu me chamo Sarah Mota, muito prazer!</h1>
 
 <div>
   <a href="https://beacons.ai/SarahMota">
